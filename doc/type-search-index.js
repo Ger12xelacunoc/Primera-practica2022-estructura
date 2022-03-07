@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"atras","l":"Apuesta"},{"p":"frente","l":"IngresarResultado"},{"p":"atras","l":"ManejoApuestas"},{"p":"frente","l":"NuevaApuesta"},{"p":"atras","l":"Ordenamiento"},{"p":"atras","l":"Rechazadas"},{"p":"atras","l":"Resultado"},{"p":"frente","l":"Ventana"}]
